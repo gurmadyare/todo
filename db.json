@@ -1,0 +1,169 @@
+{
+  "tasks": [
+    {
+      "id": "2fd535c0-3552-4947-85fc-20c97e749df8",
+      "title": "Code Python",
+      "checked": true
+    },
+    {
+      "id": "79942222-282e-46a5-8267-69b059c0753e",
+      "title": "Code the Hospital management prject",
+      "checked": false
+    },
+    {
+      "id": "50ba72dc-fb91-443f-bf11-753969126fb2",
+      "title": "ded",
+      "checked": false
+    },
+    {
+      "id": "eecc89f7-a7b1-4f04-87e0-2555064c4d1f",
+      "title": "Deploy the rental application",
+      "checked": false
+    },
+    {
+      "id": "a8728bec-ada6-440c-849c-0db0ad6df1e5",
+      "title": "Continue learning",
+      "checked": true
+    },
+    {
+      "id": "fb0a5198-895c-4bbe-b4e9-ab050c245845",
+      "title": "Continue building projects",
+      "checked": true
+    },
+    {
+      "id": "00faf44a-c721-427b-9a51-c4bb3c1ad2e7",
+      "title": "Exercise daily",
+      "checked": true
+    },
+    {
+      "id": "cb13fec9-e365-4263-a693-4e35754d6a8b",
+      "title": "Have a cup of coffee",
+      "checked": true
+    },
+    {
+      "id": "33533cf8-926c-44c3-a3ea-ef90a7aa7675",
+      "title": "Attend meeting on time tomorrow",
+      "checked": false
+    },
+    {
+      "id": "4cafddd2-af3b-4d98-a96a-13dce79d623f",
+      "title": "Build the ecommerce application",
+      "checked": false
+    },
+    {
+      "id": "2a9855fe-c360-4d41-810a-e7a907f3c859",
+      "title": "Continue learning",
+      "checked": true
+    },
+    {
+      "id": "cbe8202d-a766-4db3-ad3f-fb6ef47d797a",
+      "title": "Exercise daily",
+      "checked": true
+    },
+    {
+      "id": "75ec8f0c-f777-464e-8e6f-10f0b5d35e7b",
+      "title": "Prepare the examinations",
+      "checked": true
+    },
+    {
+      "id": "1dd9e427-c225-4140-bf1a-e2c019537623",
+      "title": "Finish the exams",
+      "checked": false
+    },
+    {
+      "id": "90f18740-4d2c-409f-ab4b-e1b3b94d1976",
+      "title": "Attend the meeting on time",
+      "checked": false
+    },
+    {
+      "id": "78a446af-66aa-435a-bbf2-c6d4d440dc1a",
+      "title": "Deploy the app",
+      "checked": false
+    },
+    {
+      "id": "51bec715-3d9d-4022-91af-5f49400691da",
+      "title": "Have a cup of coffee",
+      "checked": false
+    },
+    {
+      "id": "91de4afd-31bd-4c6c-95d6-c175c45dcbfd",
+      "title": "Attend the meeting",
+      "checked": true
+    },
+    {
+      "id": "1016b694-be6f-409a-b10f-51e5cdeb9604",
+      "title": "Have a cup of coffee",
+      "checked": true
+    },
+    {
+      "id": "1ed5be73-f287-4c4b-988f-5b87268611cf",
+      "title": "Go to the gym",
+      "checked": false
+    },
+    {
+      "id": "d3956de3-b9e5-472c-9b96-4ed4ec9340e8",
+      "title": "Dont be panic",
+      "checked": false
+    },
+    {
+      "id": "d4ed97a6-1d8f-4672-917d-2fd7a836f166",
+      "title": "Exercise",
+      "checked": false
+    },
+    {
+      "id": "9e2201d6-56cb-4485-97a1-d42f4165df96",
+      "title": "Submit assignments on time",
+      "checked": false
+    },
+    {
+      "id": "76ebc441-810c-45b2-9dfb-4e8595e5f027",
+      "title": "Prepaere the exas",
+      "checked": false
+    },
+    {
+      "id": "887f367d-9f06-4134-b84f-c3b74f22d0a8",
+      "title": "hdhejlewdj",
+      "checked": false
+    },
+    {
+      "id": "c1a4c8d9-2626-4e43-a637-237b09a2a593",
+      "title": "Exercise",
+      "checked": false
+    },
+    {
+      "id": "b0b34847-bc4e-4caf-8a29-c3bb6a476085",
+      "title": "Continue coding",
+      "checked": false
+    },
+    {
+      "id": "65820e8c-2f28-4183-aca6-441bcfd843c9",
+      "title": "Submit assignments on time",
+      "checked": false
+    },
+    {
+      "id": "ef0793b6-1f94-464e-99bd-2e02bf226dd3",
+      "title": "Have a cup of coffee",
+      "checked": false
+    },
+    {
+      "id": "87e768c3-f1c1-4228-9bd0-31d01d87f78d",
+      "title": "Exercise",
+      "checked": true
+    },
+    {
+      "id": "32a210eb-2d2f-460b-b333-1a19df3c13a7",
+      "title": "Finish the exams",
+      "checked": true
+    },
+    {
+      "id": "af7c0946-a9ae-4093-8ccc-6d75e226e089",
+      "title": "Submit assignments on time",
+      "checked": false
+    },
+    {
+      "id": "7aaa832a-7885-4887-b210-b18d92872a9b",
+      "title": "Deploy the application",
+      "checked": true
+    }
+  ]
+}
